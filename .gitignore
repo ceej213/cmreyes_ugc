@@ -2,6 +2,9 @@
 Photos/
 cutouts/
 build/
+# source video masters (260MB+) and local preview scaffolding
+videos/
+.preview/
 # generated design-canvas bundle, rebuilt from the .dc.html sources
 cjkali-runs-portfolio.html
 .DS_Store
