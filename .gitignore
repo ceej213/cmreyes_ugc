@@ -1,0 +1,7 @@
+# personal photos and derived cutouts stay off the public repo
+Photos/
+cutouts/
+build/
+# generated design-canvas bundle, rebuilt from the .dc.html sources
+cjkali-runs-portfolio.html
+.DS_Store
